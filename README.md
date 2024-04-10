@@ -1,2 +1,2 @@
-# wner-avatar-skillfactory-24.2.4
+skillfactory-24.2.4
 Позитивные тесты для каждого метода Калькулятора
